@@ -7,6 +7,7 @@ Welcome to my 100 Days of Coding Challenge repository! In this repository, I wil
 Here is the list of projects:
 
 1. Modern Login Page Ui Design
+2. ToDo App
 
 
 
