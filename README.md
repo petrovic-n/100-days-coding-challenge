@@ -8,6 +8,7 @@ Here is the list of projects:
 
 1. Modern Login Page Ui Design
 2. ToDo App
+3. Weather App UI Design
 
 
 
