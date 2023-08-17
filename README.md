@@ -10,6 +10,7 @@ Here is the list of projects:
 2. ToDo App
 3. Weather App UI Design
 4. Currency Converter
+5. Crypto Price App
 
 
 
