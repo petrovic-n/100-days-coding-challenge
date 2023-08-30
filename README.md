@@ -12,6 +12,7 @@ Here is the list of projects:
 4. Currency Converter
 5. Crypto Price App
 6. Movie Project
+7. Text Encryptor App
 
 
 
