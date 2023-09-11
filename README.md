@@ -13,6 +13,7 @@ Here is the list of projects:
 5. Crypto Price App
 6. Movie Project
 7. Text Encryptor App
+8. Parallex Slider
 
 
 
